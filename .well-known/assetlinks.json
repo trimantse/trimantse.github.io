@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.meizu.applink",
+    "sha256_cert_fingerprints":
+    ["E3:09:6A:B4:4A:C4:04:DD:DB:D8:D1:D3:99:A5:98:2B:B2:11:6A:B5:F2:0B:0F:2A:F6:90:0E:F4:CD:6B:A4:1C"]
+  }
+}]
